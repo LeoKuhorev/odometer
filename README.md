@@ -1,3 +1,9 @@
+# React Odometer app
+
+## Author: _Leo Kukharau_
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
